@@ -1,0 +1,33 @@
+/* Team Profile tittle */
+.navbar-brand{ 
+    background-color:lightgreen; 
+    color: aliceblue; 
+    font-size: 50px;
+    font-weight: bold;
+}  
+
+/* Entire card structure  */
+.team-crew{ 
+    padding:10%;  
+    flex:1 1 80%; 
+    min-height: 50vh; 
+    min-width: 90vw; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    box-sizing: border-box; 
+    gap: 10px;
+}
+
+/*Employee cards */ 
+
+ .employee-ids{ 
+    display:grid; 
+    height: 100%; 
+    width: 100%; 
+    justify-items: center; 
+    background-color: darkgreen; 
+    
+} 
+     
+    
